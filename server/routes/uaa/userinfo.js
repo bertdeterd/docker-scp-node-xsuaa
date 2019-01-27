@@ -3,7 +3,7 @@ const request = require('request');
 module.exports =  (req, res) => {
 
     let body = {};
-    body.username = "Bert Deterd";
+    body.username = "Bert Deterd!";
 
     let resp = JSON.stringify(body);
     res.send(resp);

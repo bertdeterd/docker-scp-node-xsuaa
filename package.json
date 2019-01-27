@@ -18,14 +18,11 @@
   "homepage": "https://github.com/bertdeterd/docker-scp-node-xsuaa#readme",
   "dependencies": {
     "request": "*",
-    "@sap/xsenv": "*",
-    "@sap/xssec": "*",
     "axios": "*",
     "express": "*",
     "nprogress": "*",
     "oauth": "*",
     "passport": "*",
-    "path": "*",
-    "scp-cf-xsuaa": "*"
+    "path": "*"
   }
 }
